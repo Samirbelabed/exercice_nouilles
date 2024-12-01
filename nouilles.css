@@ -1,0 +1,282 @@
+.page {
+
+background-color: rgb(236, 233, 233);
+width: 80%;
+height: 100%;
+margin: 0 auto;
+
+}
+
+.menu_yum {
+
+
+display: flex;
+margin-left:200px;
+margin-top: 30px;
+
+
+
+}
+
+
+.liens_menu {
+
+list-style-type: none;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-self: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+
+
+}
+
+.liens_menu li {
+    
+margin-left: 15px;
+
+}
+
+.liens_menu a {
+    
+    text-decoration: none;
+    color:black;
+}
+
+.logo_yum {
+
+width:150px;
+height:150px;
+margin-top: 20px;
+
+}
+
+.yum_store {
+
+margin-left:150px;
+margin-top:150px;
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+
+}
+
+.yum_store h2 {
+
+font-weight: bold;
+
+}
+
+.yum_store p {
+
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.yum_store ul li a {
+
+text-decoration:none;
+color: white;
+font-weight: bold;
+background-color:black;
+padding: 10px 10px;
+
+
+}
+
+.yum_store ul {
+
+    list-style-type: none;
+    font-family: arial;
+    align-self:center
+   
+}
+
+
+.commande {
+
+margin-top: 220px;
+padding: 10px 0;
+background-color:rgb(194, 12, 12);
+
+}
+
+
+.commande ul {
+
+    list-style-type: none;
+    font-family: arial;
+    text-align: center;
+
+}
+.commande ul li p {
+
+font-family: Arial, Helvetica, sans-serif;
+font-weight:bold;
+font-size: 20px;
+
+
+
+}
+
+.commande a {
+
+background-color:black;
+text-decoration: none;
+color: white;
+font-style: arial;
+font-weight: bold;
+padding: 10px 10px;
+
+
+
+}
+
+
+
+.img_rue {
+
+
+
+margin-top: 200px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+
+}
+
+.img_rue .resto {
+
+    margin-left:100px;
+}
+
+.yum_store .logo_yum2 {
+
+
+width:250px;
+height:250px;
+margin-right:200px;
+
+
+}
+
+
+.adresses {
+
+display: flex;
+flex-direction: row;
+position: absolute;
+left:340px;
+top:1000px;
+
+
+
+}
+
+.adresses li {
+
+    margin-right: 252px;
+}
+
+.adresses ul {
+
+font-family: arial;
+list-style-type: none;
+
+}
+
+.img_rue h2 {
+
+font-family: arial;
+position: absolute;
+bottom:100px;
+text-decoration: underline red;
+}
+
+
+.savoir_faire h2 {
+
+text-decoration: underline red;
+
+}
+
+
+.savoir_faire {
+
+text-align: center;
+font-weight: bold;
+font-family: arial;
+margin-top: 50px;
+
+}
+
+
+.reseaux_soc {
+
+    margin-top: 20px;
+}
+
+
+.reseaux_soc h2 {
+
+font-family: arial;
+font-weight: bold;
+text-decoration: underline red;
+text-align: center;
+margin-top: 80px;
+
+}
+
+.reseaux_soc .resimg1 {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+   
+}
+
+
+
+
+.reseaux_soc .resimg2 {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 30px;
+
+}
+
+.resimg1 img {
+
+    margin: 0 20px;
+}
+
+
+.resimg2 img {
+
+    margin: 0 20px;
+}
+
+
+footer {
+
+    background-color: black;
+    
+}
+
+footer img {
+
+   
+}
+
+
+
+
